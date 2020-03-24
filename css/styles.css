@@ -14,3 +14,9 @@ body {
  .clickable:hover {
     text-decoration: underline;
  }
+.ready-trailer {
+  display: none;
+ }
+ .cureTrailer {
+  display: none;
+ } 
