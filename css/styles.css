@@ -1,3 +1,16 @@
+body {
+  background-image: linear-gradient(#fff5db,#ffeb85, #f2dc11, #b2db0b);
+}
+.jumbotron {
+  background: #94fffa;
+}
  .puppy-showing {
    display: none;
+ }
+ p {
+   cursor: pointer;
+   color: #0088cc;
+ }
+ p:hover {
+    text-decoration: underline;
  }
