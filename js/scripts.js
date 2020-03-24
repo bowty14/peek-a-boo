@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("p").click(function() {
-    $("img").show(); 
+    $(".puppy-show").toggle(); 
+    $(".puppy-hidden").toggle();
   });
 });
