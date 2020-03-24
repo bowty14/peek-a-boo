@@ -4,7 +4,7 @@ body {
 .jumbotron {
   background: #94fffa;
 }
- .puppy-showing {
+ #puppy-showing {
    display: none;
  }
  .clickable {
